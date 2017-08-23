@@ -11,7 +11,7 @@
 1. [Install Meteor](https://www.meteor.com/install)
 2. Clone or download [this project](https://github.com/macsj200/meteor-facebook-api-example)
 3. Follow the [Facebook developer guide](https://developers.facebook.com/docs/pages/getting-started) to obtain an API key
-4. Insert your API key in the `settings.json` file **do not check in your API keys to a public repository!**
+4. Insert your API key in the `settings.json` file **Do not check in your API keys to a public repository!**
 5. Run this project with the `meteor` command
 
 ## Usage
