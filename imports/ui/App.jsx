@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import AccountsUIWrapper from './AccountsUIWrapper.jsx';
 
 // App component - represents the whole app
 export default class App extends Component {
@@ -8,6 +9,7 @@ export default class App extends Component {
         <header>
           <h1>Facebook API integration</h1>
         </header>
+        <AccountsUIWrapper />
       </div>
     );
   }
