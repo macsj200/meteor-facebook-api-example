@@ -5,7 +5,7 @@
 ### Learning JavaScript/Meteor
 - If you are not familiar with JavaScript, I recommend Codecademy's [excellent JavaScript course](https://www.codecademy.com/learn/javascript)
 - [Meteor's documentation](https://docs.meteor.com/) is a great place to learn about Meteor
-- I highly recommend the [Meteor TODO app tutorial](https://www.meteor.com/tutorials/blaze/creating-an-app) as well
+- I highly recommend the [Meteor app tutorial](https://www.meteor.com/tutorials/react/creating-an-app) as well
 
 ### Running the project
 1. [Install Meteor](https://www.meteor.com/install)
